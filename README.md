@@ -10,3 +10,5 @@
 4. Unfortunately, KeeWeb creates in its current version a database that cannot be opened by Keepassx. Open it in MacPass (https://github.com/mstarke/MacPass) once and save the database. Keepassx is then able to open it.
 
 I haven't tried to do the CSV import in Keepass, this would probably save steps 3 and 4.
+
+To extend the XML import please check KeeWebs example xml file: https://github.com/keeweb/kdbxweb/blob/master/resources/demo.xml
