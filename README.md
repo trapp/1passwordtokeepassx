@@ -4,7 +4,7 @@
 
 2. Run this tool.
     
-    php convert.php > export.xml
+        php convert.php > export.xml
 
 3. Use KeeWeb to import it: https://keeweb.info/ and save the file as .kdbx database.
 4. Unfortunately, KeeWeb creates in its current version a database that cannot be opened by Keepassx. Open it in MacPass (https://github.com/mstarke/MacPass) once and save the database. Keepassx is then able to open it.
